@@ -6,4 +6,3 @@ Uproszczenie interfejsu graficznego
 easierApp
 Zmiana09
 Zmiana10a
-Zmiana12
