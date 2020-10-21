@@ -7,3 +7,4 @@ easierApp
 Zmiana09
 Zmiana10a
 Zmiana10
+Zmiana11
